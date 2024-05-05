@@ -4,7 +4,7 @@ using namespace std;
 
 /*
  打印输出100以内的偶数
- 11111111111
+ 33333
  */
 int main(){
     for(int i = 1; i <= 100;i++){
